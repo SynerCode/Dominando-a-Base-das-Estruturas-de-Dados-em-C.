@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1761378828 source:f:\programas\codeblocks\estruturas de dados\13 - estrutura hierárquica - arvnaria\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1761293084 f:\programas\codeblocks\estruturas de dados\13 - estrutura hierárquica - arvnaria\arvnaria.h
+	<stdbool.h>
+
+1761381723 source:f:\programas\codeblocks\estruturas de dados\13 - estrutura hierárquica - arvnaria\arvnaria.c
+	<stdlib.h>
+	<stdio.h>
+	"arvNaria.h"
+

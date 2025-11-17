@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1762492058 source:f:\programas\codeblocks\estruturas de dados\17 - estrutura relacional - grafoldp\main.c
+	<stdio.h>
+	"grafoLDP.h"
+
+1762492048 f:\programas\codeblocks\estruturas de dados\17 - estrutura relacional - grafoldp\grafoldp.h
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1763367160 source:f:\programas\codeblocks\estruturas de dados\20 - estruturaad - tabelahashea\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"tabelaHashEA.h"
+
+1763363025 f:\programas\codeblocks\estruturas de dados\20 - estruturaad - tabelahashea\tabelahashea.h
+	<stdbool.h>
+
+1763365980 source:f:\programas\codeblocks\estruturas de dados\20 - estruturaad - tabelahashea\tabelahashea.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"tabelaHashEA.h"
+

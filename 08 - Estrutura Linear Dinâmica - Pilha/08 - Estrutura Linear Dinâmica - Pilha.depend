@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1758828587 source:f:\programas\codeblocks\estruturas de dados\08 - estrutura linear dinâmica - pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhaLista.h"
+
+1758829464 source:f:\programas\codeblocks\estruturas de dados\08 - estrutura linear dinâmica - pilha\pilhalista.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhaLista.h"
+
+1758744049 f:\programas\codeblocks\estruturas de dados\08 - estrutura linear dinâmica - pilha\pilhalista.h
+	<stdbool.h>
+

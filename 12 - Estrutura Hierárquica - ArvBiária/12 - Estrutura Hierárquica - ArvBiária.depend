@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1760598372 source:f:\programas\codeblocks\estruturas de dados\12 - estrutura hierárquica - arvbiária\main.c
+	"arvoreB.h"
+	<stdio.h>
+	<stdlib.h>
+
+1760597176 f:\programas\codeblocks\estruturas de dados\12 - estrutura hierárquica - arvbiária\arvoreb.h
+	<stdbool.h>
+
+1760602701 source:f:\programas\codeblocks\estruturas de dados\12 - estrutura hierárquica - arvbiária\arvoreb.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreB.h"
+

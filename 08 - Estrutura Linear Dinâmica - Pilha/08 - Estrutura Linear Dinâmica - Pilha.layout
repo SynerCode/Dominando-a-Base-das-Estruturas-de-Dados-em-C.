@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="509" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="pilhaLista.h" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="208" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="pilhaLista.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="670" topLine="7" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="15" />
+			<Collapse line="26" />
+			<Collapse line="32" />
+			<Collapse line="36" />
+			<Collapse line="44" />
+			<Collapse line="54" />
+			<Collapse line="60" />
+			<Collapse line="64" />
+			<Collapse line="70" />
+			<Collapse line="81" />
+			<Collapse line="91" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

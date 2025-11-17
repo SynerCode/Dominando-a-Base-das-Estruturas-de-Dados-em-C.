@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1759175099 source:f:\programas\codeblocks\estruturas de dados\10 - estrutura linear dinâmica - fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaDinamica.h"
+
+1759174872 source:f:\programas\codeblocks\estruturas de dados\10 - estrutura linear dinâmica - fila\filadinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"filaDinamica.h"
+
+1759168632 f:\programas\codeblocks\estruturas de dados\10 - estrutura linear dinâmica - fila\filadinamica.h
+	<stdbool.h>
+

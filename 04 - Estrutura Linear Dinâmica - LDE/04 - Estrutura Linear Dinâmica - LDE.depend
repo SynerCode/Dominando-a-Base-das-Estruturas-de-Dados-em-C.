@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1757659094 source:f:\programas\codeblocks\estruturas de dados\04 - estrutura linear dinâmica - lde\listade.c
+	"listaDE.h"
+	<stdio.h>
+	<stdlib.h>
+
+1743445502 source:f:\programas\codeblocks\estruturas de dados\04 - estrutura linear dinâmica - lde\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1757572742 f:\programas\codeblocks\estruturas de dados\04 - estrutura linear dinâmica - lde\listade.h
+	<stdbool.h>
+

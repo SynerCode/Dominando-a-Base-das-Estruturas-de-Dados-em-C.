@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1758675397 source:f:\programas\codeblocks\estruturas de dados\07 - estrutura linear estática - pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhaArray.h"
+
+1758677529 source:f:\programas\codeblocks\estruturas de dados\07 - estrutura linear estática - pilha\pilhaarray.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhaArray.h"
+
+1758677706 f:\programas\codeblocks\estruturas de dados\07 - estrutura linear estática - pilha\pilhaarray.h
+	<stdbool.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1757483606 source:f:\programas\codeblocks\estruturas de dados\03 - estrutura linear dinâmica - lse\listase.c
+	"listaSE.h"
+	<stdio.h>
+	<stdlib.h>
+
+1757483576 f:\programas\codeblocks\estruturas de dados\03 - estrutura linear dinâmica - lse\listase.h
+	<stdbool.h>
+

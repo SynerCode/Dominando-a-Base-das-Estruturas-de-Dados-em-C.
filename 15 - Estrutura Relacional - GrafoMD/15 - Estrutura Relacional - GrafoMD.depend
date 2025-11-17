@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1762228217 source:f:\programas\codeblocks\estruturas de dados\15 - estrutura relacional - grafomd\grafomd.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"grafoMD.h"
+
+1762226971 f:\programas\codeblocks\estruturas de dados\15 - estrutura relacional - grafomd\grafomd.h
+
+1762231137 source:f:\programas\codeblocks\estruturas de dados\15 - estrutura relacional - grafomd\main.c
+	<stdio.h>
+	"grafoMD.h"
+

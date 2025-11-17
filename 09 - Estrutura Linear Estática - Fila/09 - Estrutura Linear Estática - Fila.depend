@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1759158512 source:f:\programas\codeblocks\estruturas de dados\09 - estrutura linear estática - fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaEstatica.h"
+
+1759158470 source:f:\programas\codeblocks\estruturas de dados\09 - estrutura linear estática - fila\filaestatica.c
+	<stdio.h>
+	<stdlib.h>
+	"filaEstatica.h"
+
+1759157154 f:\programas\codeblocks\estruturas de dados\09 - estrutura linear estática - fila\filaestatica.h
+	<stdbool.h>
+

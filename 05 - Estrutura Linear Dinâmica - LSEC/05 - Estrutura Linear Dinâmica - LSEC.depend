@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1758341406 source:f:\programas\codeblocks\estruturas de dados\05 - estrutura linear dinâmica - lsec\listacircular.c
+	"listaCircular.h"
+	<stdio.h>
+	<stdlib.h>
+
+1758342153 f:\programas\codeblocks\estruturas de dados\05 - estrutura linear dinâmica - lsec\listacircular.h
+	<stdbool.h>
+
