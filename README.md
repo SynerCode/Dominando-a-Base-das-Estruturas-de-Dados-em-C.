@@ -110,3 +110,17 @@ Clone o repositório:
 
 ```sh
 git clone https://github.com/SynerCode/Dominando-a-Base-das-Estruturas-de-Dados-em-C..git
+```
+
+# Direitos Autorais e Licença
+
+Copyright © 2025 _**SynerCode**_. Todos os direitos reservados.
+
+**Este repositório e todo o seu conteúdo (incluindo, mas não se limitando a: códigos-fonte, documentações, textos, imagens e estruturação) são de propriedade intelectual exclusiva do autor.**
+
+### Termos de Uso:
+* **Uso Permitido:** É autorizada apenas a visualização, leitura e reprodução do código por meio de ferramentas de terceiros, estritamente para fins de estudo, aprendizado acadêmico e avaliação técnica.
+* **Uso Comercial Proibido:** É expressamente proibida a comercialização, venda, licenciamento, sublicenciamento ou qualquer exploração econômica direta ou indireta deste projeto e de suas informações.
+* **Modificação e Distribuição Proibidas:** Não é permitida a cópia, modificação, engenharia reversa, redistribuição ou publicação deste código (parcial ou total) em qualquer outro local, plataforma ou mídia sem a autorização prévia e por escrito do titular dos direitos autorais (SynerCode/Instrutor do Curso).
+
+A utilização indevida ou não autorizada deste material estará sujeita às sanções civis e criminais previstas na legislação de proteção aos direitos autorais.
